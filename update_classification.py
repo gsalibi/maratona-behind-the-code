@@ -18,7 +18,7 @@ all_participants = dict()
 for i in range(len(urls)):
     driver = webdriver.Firefox(options=option)
     driver.get(urls[i])
-    time.sleep(10)
+    time.sleep(20)
 
     element = driver.find_element_by_xpath("//*[@id='__next']/main/div/div[3]")
     html_content = element.get_attribute('outerHTML')
