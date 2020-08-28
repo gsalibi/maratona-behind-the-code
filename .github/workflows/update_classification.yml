@@ -1,4 +1,4 @@
-name: Today's health data
+name: Update classification
 
 on:
   push:
