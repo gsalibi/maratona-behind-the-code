@@ -12,8 +12,7 @@ urls = ["https://maratona.dev/pt/ranking?c=1", "https://maratona.dev/pt/ranking?
         "https://maratona.dev/pt/ranking?c=3", "https://maratona.dev/pt/ranking?c=4"]
 challenges = [dict(), dict(), dict(), dict()]
         
-participants = dict()
-
+all_participants = dict()
 
 
 for i in range(len(urls)):
@@ -35,10 +34,10 @@ for i in range(len(urls)):
         
         challenges[i][name] = position
         
-        if name in participants:            
-            participants[name] = participants[name] + points
+        if name in all_participants:            
+            all_participants[name] = all_participants[name] + points
         else:
-            participants[name] = points
+            all_participants[name] = points
             
         points -= 1
         
@@ -46,7 +45,7 @@ for i in range(len(urls)):
 
 
 
-data = sorted(participants.items(), key=lambda x: x[1], reverse=True)
+data = sorted(all_participants.items(), key=lambda x: x[1], reverse=True)
 
 for i in range(len(data)):
     for challenge in challenges:
@@ -57,10 +56,12 @@ for i in range(len(data)):
 
 
 # opening the csv file in 'w+' mode 
-file = open('classificados.csv', 'w+', newline ='') 
+file = open('Classificação/classificados.csv', 'w+', newline ='') 
   
 # writing the data into the file 
 with file:     
     write = csv.writer(file) 
-    write.writerow(['participante','pontos (101 - posição)', 'desafio 1', 'desafio 2', 'desafio 3', 'desafio 4'])
+    write.writerow(['Participante','Pontos (101 - posição)', 'Desafio 1', 'Desafio 2', 'Desafio 3', 'Desafio 4'])
     write.writerows(data) 
+
+print(data)
