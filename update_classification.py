@@ -65,3 +65,4 @@ with file:
     write.writerows(data) 
 
 print(data)
+
