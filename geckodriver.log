@@ -2721,3 +2721,35 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1598958535818	Marionette	INFO	Listening on port 39857
 1598958535870	Marionette	WARN	TLS certificate errors will be ignored for this session
 1598958566626	Marionette	INFO	Stopped listening on port 39857
+1598962182665	geckodriver	INFO	Listening on 127.0.0.1:57345
+1598962183574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJNg7Sj"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598962195450	Marionette	INFO	Listening on port 32891
+1598962195568	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598962227249	Marionette	INFO	Stopped listening on port 32891
+1598962227738	geckodriver	INFO	Listening on 127.0.0.1:48853
+1598962228747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile188CoY"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598962230895	Marionette	INFO	Listening on port 41093
+1598962230956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598962261971	Marionette	INFO	Stopped listening on port 41093
+1598962262446	geckodriver	INFO	Listening on 127.0.0.1:60899
+1598962263454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGtef93"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598962265564	Marionette	INFO	Listening on port 43919
+1598962265671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598962296654	Marionette	INFO	Stopped listening on port 43919
+1598962297243	geckodriver	INFO	Listening on 127.0.0.1:34485
+1598962298249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledlggwT"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1598962300278	Marionette	INFO	Listening on port 34333
+1598962300357	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1598962331248	Marionette	INFO	Stopped listening on port 34333
