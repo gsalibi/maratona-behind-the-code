@@ -10,8 +10,9 @@ option.headless = True
 
 urls = ["https://maratona.dev/pt/ranking?c=1", "https://maratona.dev/pt/ranking?c=2", 
         "https://maratona.dev/pt/ranking?c=3", "https://maratona.dev/pt/ranking?c=4",
-        "https://maratona.dev/pt/ranking?c=5", "https://maratona.dev/pt/ranking?c=6"]
-challenges = [dict(), dict(), dict(), dict(), dict(), dict()]
+        "https://maratona.dev/pt/ranking?c=5", "https://maratona.dev/pt/ranking?c=6",
+        "https://maratona.dev/pt/ranking?c=7"]
+challenges = [dict(), dict(), dict(), dict(), dict(), dict(), dict()]
         
 all_participants = dict()
 
@@ -62,7 +63,7 @@ file = open('Classificação/classificados.csv', 'w+', newline ='')
 # writing the data into the file 
 with file:     
     write = csv.writer(file) 
-    write.writerow(['Participante','Pontos Σ(101 - posição_desafio)', 'Desafio 1', 'Desafio 2', 'Desafio 3', 'Desafio 4', 'Desafio 5', 'Desafio 6'])
+    write.writerow(['Participante','Pontos Σ(101 - posição_desafio)', 'Desafio 1', 'Desafio 2', 'Desafio 3', 'Desafio 4', 'Desafio 5', 'Desafio 6', 'Desafio 7'])
     write.writerows(data) 
 
 print(data)
