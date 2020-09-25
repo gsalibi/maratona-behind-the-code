@@ -29476,3 +29476,52 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1601032291856	Marionette	INFO	Listening on port 46661
 1601032291956	Marionette	WARN	TLS certificate errors will be ignored for this session
 1601032322806	Marionette	INFO	Stopped listening on port 46661
+1601036111232	geckodriver	INFO	Listening on 127.0.0.1:47305
+1601036112194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVnzrKU"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601036120158	Marionette	INFO	Listening on port 34129
+1601036120213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601036151300	Marionette	INFO	Stopped listening on port 34129
+1601036151796	geckodriver	INFO	Listening on 127.0.0.1:34735
+1601036152802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerAvJTq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601036155013	Marionette	INFO	Listening on port 46439
+1601036155111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601036186260	Marionette	INFO	Stopped listening on port 46439
+1601036186770	geckodriver	INFO	Listening on 127.0.0.1:58109
+1601036187775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegBsUTJ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601036189929	Marionette	INFO	Listening on port 40225
+1601036189981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601036220968	Marionette	INFO	Stopped listening on port 40225
+1601036221491	geckodriver	INFO	Listening on 127.0.0.1:33419
+1601036222497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb6HD5b"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601036224641	Marionette	INFO	Listening on port 40657
+1601036224703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601036255702	Marionette	INFO	Stopped listening on port 40657
+1601036256220	geckodriver	INFO	Listening on 127.0.0.1:44585
+1601036256225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFZIMUv"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601036258243	Marionette	INFO	Listening on port 33145
+1601036258332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601036289132	Marionette	INFO	Stopped listening on port 33145
+1601036289636	geckodriver	INFO	Listening on 127.0.0.1:35619
+1601036290642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRtZkmv"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601036292836	Marionette	INFO	Listening on port 38061
+1601036292849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601036324105	Marionette	INFO	Stopped listening on port 38061
+1601036324593	geckodriver	INFO	Listening on 127.0.0.1:33479
+1601036325599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Q8a4J"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601036327651	Marionette	INFO	Listening on port 39933
+1601036327705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601036358618	Marionette	INFO	Stopped listening on port 39933
