@@ -1,245 +1,217 @@
 Participante,Pontos Σ(101 - posição_desafio),Desafio 1,Desafio 2,Desafio 3,Desafio 4,Desafio 5,Desafio 6,Desafio 7,Desafio 8
-Caroline Andreoni Barcat Intaschi,280,7°,-,-,14°,-,-,-,2°
-Gustavo Henrique Storti Salibi,251,11°,-,-,11°,-,-,-,30°
-Bruno Araujo Marques,223,12°,-,-,9°,-,-,-,59°
-Caio Ulisses Silva Carmassi,202,41°,-,-,20°,-,-,-,40°
-Gustavo Da Silva Moraes,200,45°,-,-,45°,-,-,-,13°
-Yuri Pedro Dos Santos,181,14°,-,-,37°,-,-,-,71°
-Priscilla Bomfim Domingues,178,19°,-,-,5°,-,-,-,-
-João Marcos De Paiva Fernandes,174,-,-,-,7°,-,-,-,21°
-Andressa Stéfany Silva De Oliveira,167,16°,-,-,36°,-,-,-,84°
-Igor De Moura Ventorim,165,97°,-,-,6°,-,-,-,35°
-David Da Mata Lopes,163,-,-,-,15°,-,-,-,24°
-Andrei Pataquine Oliveira,160,40°,-,-,2°,-,-,-,-
-Bruno Campos Santos,159,-,-,-,12°,-,-,-,31°
-Alice Valença De Lorenci,157,8°,-,-,-,-,-,-,37°
-Rute Souza De Abreu,154,13°,-,-,35°,-,-,-,-
-Leticia Manoela Dos Santos,151,-,-,-,22°,-,-,-,29°
-Christian Testtzlaffe Alpoim,148,-,-,-,29°,-,-,-,25°
-Lucas Cezar Machado,145,-,-,-,43°,-,-,-,14°
-Ruan Carlos Meira,143,-,-,-,42°,-,-,-,17°
-Ronaldo Regis Posser,142,-,-,-,44°,-,-,-,16°
-Yuri Thomas Pinheiro Nunes,141,15°,-,-,67°,-,-,-,80°
-Yuri Dias Meira,139,-,-,-,51°,-,-,-,12°
-Joed Vicente Da Silva,137,-,-,-,8°,-,-,-,57°
-Jorge Vinicius Dos Reis Santos,135,6°,-,-,61°,-,-,-,-
-Zivile Valutyte Silveira,134,3°,-,-,-,-,-,-,65°
-Carlos Antonio Sales De Souza,132,-,-,-,50°,-,-,-,20°
-Germano Yoneda Pereira Lima,131,-,-,-,39°,-,-,-,32°
-Felipe Augusto Cavalcante,130,-,-,-,10°,-,-,-,62°
-Ismael Silva De Souza,127,-,-,-,23°,-,-,-,52°
-Monique Calmon De Carvalho Ferreira,126,42°,-,-,-,-,-,-,34°
-Alexandre Alves,125,-,-,-,70°,-,-,-,7°
-Djalma Augusto Ortega Freitas,121,91°,-,-,49°,-,-,-,42°
-Mozart Vasconcelos Silva,112,-,-,-,47°,-,-,-,43°
-Ana Caroline Da Silva Dantas,108,-,-,-,66°,-,-,-,28°
-Daniel Roberto,101,4°,-,-,-,-,-,-,97°
-Ana Clara Cavalcante Sousa Silva,100,1°,-,-,-,-,-,-,-
-Gabriel Ribeiro Basatos,100,85°,-,-,17°,-,-,-,-
-Samuel Gomes Ribeiro,100,-,-,-,1°,-,-,-,-
+Lucas Cezar Machado,343,-,-,10°,-,-,2°,35°,14°
+Djalma Augusto Ortega Freitas,337,-,-,8°,-,-,16°,1°,42°
+Germano Yoneda Pereira Lima,317,-,-,21°,-,-,23°,11°,32°
+Caroline Andreoni Barcat Intaschi,312,-,-,2°,-,-,75°,13°,2°
+Gustavo Henrique Storti Salibi,306,-,-,7°,-,-,49°,12°,30°
+Bruno Campos Santos,288,-,-,1°,-,-,35°,49°,31°
+Ruan Carlos Meira,268,-,-,15°,-,-,3°,-,17°
+Vinicius De Andrade Piovezan,264,-,-,20°,-,-,4°,98°,18°
+Carlos Alberto Fernandes Junior,261,-,-,27°,-,-,29°,26°,61°
+Igor De Moura Ventorim,251,-,-,4°,-,-,93°,21°,35°
+Mozart Vasconcelos Silva,251,-,-,6°,-,-,-,3°,43°
+Ronaldo Regis Posser,249,-,-,22°,-,-,17°,100°,16°
+Gustavo Da Silva Moraes,242,-,-,11°,-,-,37°,-,13°
+Zivile Valutyte Silveira,236,-,-,25°,-,-,73°,5°,65°
+Yuri Dias Meira,235,-,-,40°,-,-,-,16°,12°
+Ana Julia Bittencourt Fogaça,222,-,-,28°,-,-,51°,14°,89°
+Renato Oliveira Dos Santos,197,-,-,-,-,-,40°,22°,44°
+Bruno Araujo Marques,196,-,-,19°,-,-,-,29°,59°
+Christian Cruvinel França,190,-,-,-,-,-,36°,30°,47°
+Alexandre Alves,189,-,-,24°,-,-,83°,-,7°
+Jefferson Henrique Camelo Soares,189,-,-,48°,-,-,26°,58°,83°
+John Kelvin Gonçalves De Souza,181,-,-,39°,-,-,19°,-,64°
+Carlos Antonio Sales De Souza,179,-,-,29°,-,-,-,75°,20°
+João Marcos De Paiva Fernandes,178,-,-,3°,-,-,-,-,21°
+Ivan Oliveira Amador,177,-,-,-,-,-,38°,55°,33°
+Ismael Sidney Barroso De Brito,173,-,-,-,-,-,20°,9°,-
+Rodrigo De Lima Oliveira,169,-,-,-,-,-,13°,39°,82°
+Eduardo Moraes Ritter,167,-,-,32°,-,-,-,-,3°
+Rute Souza De Abreu,165,-,-,13°,-,-,-,24°,-
+Daniella Fernandes Kojol,162,-,-,45°,-,-,-,46°,50°
+Gustavo Matias Cotta,161,-,-,36°,-,-,-,-,5°
+Clarisse De Almeida E Alvarenga,160,-,-,-,-,-,28°,76°,39°
+Felipe Ribeiro Tanso,157,-,-,41°,-,-,-,15°,90°
+Isaac Guillermo Gonzales Vizcarr,157,-,-,-,-,-,25°,20°,-
+Josué Alves Landim,156,-,-,-,-,-,6°,40°,-
+Caio Ulisses Silva Carmassi,153,-,-,9°,-,-,-,-,40°
+Ana Caroline Da Silva Dantas,151,-,-,23°,-,-,-,-,28°
+Joana Braz De Almeida Ritter,149,-,-,30°,-,-,-,-,23°
+Priscilla Bomfim Domingues,148,-,-,16°,-,-,53°,86°,-
+Davi Reis Vieira De Souza,146,-,-,-,-,-,77°,71°,9°
+Wellyson Martins Tavares,143,-,-,49°,-,-,10°,-,-
+Christian Testtzlaffe Alpoim,139,-,-,38°,-,-,-,-,25°
+Roberto De Paiva,135,-,-,-,-,-,80°,28°,60°
+Alice Valença De Lorenci,134,-,-,35°,-,-,-,97°,37°
+Felipe Augusto Cavalcante,134,-,-,-,-,-,-,6°,62°
+Cleber Rudnei Dorneles,133,-,-,43°,-,-,-,-,26°
+Gabriel Ribeiro Basatos,133,-,-,-,-,-,44°,25°,-
+Fabiano Alencar,131,-,-,42°,-,-,-,42°,88°
+Joed Vicente Da Silva,128,-,-,17°,-,-,-,-,57°
+Camila Barbosa Gomes De Araújo,123,-,-,44°,-,-,-,83°,53°
+Yuri Pedro Dos Santos,119,-,-,12°,-,-,-,-,71°
+Guilherme Vallim Machado,119,-,-,-,-,-,21°,62°,-
+Hamilton Tenório Da Silva,119,-,-,-,-,-,-,47°,36°
+Tiago Hérique Silva De Almeida,117,-,-,31°,-,-,-,-,54°
+Yuri Thomas Pinheiro Nunes,116,-,-,18°,-,-,-,89°,80°
+Diego Rodrigues De Souza Arimura,115,-,-,-,-,-,43°,60°,85°
+Vitor Gama Lemos,112,-,-,-,-,-,12°,78°,-
+Saulo Santos Rocha Lima,109,-,-,-,-,-,45°,-,48°
+Fernando Henrique Oliveira Zanzoti,106,-,-,-,-,-,-,81°,15°
+Joao Marcos Alves Landim,104,-,-,-,-,-,71°,27°,-
+Anderson Pereira Monteiro,102,-,-,26°,-,-,-,-,74°
+Gabriel Gomes De Oliveira Costa,100,-,-,46°,-,-,56°,-,-
+Felipe Almeida Mota,100,-,-,-,-,-,1°,-,-
 Aleck Zander Tome De Sousa,100,-,-,-,-,-,-,-,1°
-Rafael Romão Bertoni,99,2°,-,-,-,-,-,-,-
-Gabriel Fiorese Zancanela,99,33°,-,-,-,-,-,-,70°
-André Luiz Silva De Souza,98,-,-,-,3°,-,-,-,-
-Eduardo Moraes Ritter,98,-,-,-,-,-,-,-,3°
-Luís Fernando De Souza Cardoso,97,-,-,-,4°,-,-,-,-
+Gabriel Donadel Dallagnol,99,-,-,-,-,-,30°,73°,-
+Ygo De Sousa Alencar,99,-,-,-,-,-,-,2°,-
+Gustavo De Melo Oliveira,97,-,-,-,-,-,60°,70°,76°
+Ana Flavia Lopes Goncalves,97,-,-,-,-,-,-,4°,-
 Denis Freire Lopes Nunes,97,-,-,-,-,-,-,-,4°
-Marcos Roberto Oliveira Rocha Puttini Barthman,96,5°,-,-,-,-,-,-,-
-Gustavo Matias Cotta,96,-,-,-,-,-,-,-,5°
+André Luiz Silva De Souza,96,-,-,5°,-,-,-,-,-
+Gustavo Bispo Dos Santos,96,-,-,-,-,-,5°,-,-
 Aluizio Cidral Júnior,95,-,-,-,-,-,-,-,6°
+Fernando Augusto Da Silva Gallardo,94,-,-,-,-,-,7°,-,-
+Luiz Antonio Nunes Neves,94,-,-,-,-,-,-,7°,-
+Thailan Higor Ferreira Oliva,93,-,-,-,-,-,8°,-,-
+Matheus Ferreira Machado,93,-,-,-,-,-,-,8°,-
 Lucas Rayan Guerra Da Silva,93,-,-,-,-,-,-,-,8°
-Ibrahim Massaru De Borba,92,9°,-,-,-,-,-,-,-
-Davi Reis Vieira De Souza,92,-,-,-,-,-,-,-,9°
-Lívia Barros,91,10°,-,-,-,-,-,-,-
+Cinthya Oestreich Silva,92,-,-,47°,-,-,-,-,63°
+Kevin Da Silva,92,-,-,-,-,-,9°,-,-
+Pammela Amorim Nascimento,92,-,-,-,-,-,-,43°,67°
+João Pedro De Jesus Souza De Ramos,91,-,-,-,-,-,-,10°,-
 João Vitor Miranda Santos,91,-,-,-,-,-,-,-,10°
+Lucas Henrique Gomes Alves,90,-,-,-,-,-,11°,-,-
 Ana Carolina Bernardi,90,-,-,-,-,-,-,-,11°
-César Augusto Perdigão Batista,88,-,-,-,13°,-,-,-,-
-Fernando Henrique Oliveira Zanzoti,86,-,-,-,-,-,-,-,15°
-Gabriel Gomes De Oliveira Costa,85,-,-,-,16°,-,-,-,-
-Danilo Balby Silva Castanheira,84,17°,-,-,-,-,-,-,-
-Marcus Daniel De Almeida,83,18°,-,-,-,-,-,-,-
-Igor Kennedy De Almeida Bueno,83,-,-,-,18°,-,-,-,-
-Vinicius De Andrade Piovezan,83,-,-,-,-,-,-,-,18°
-Sheyla Bittencourt,82,-,-,-,19°,-,-,-,-
-Carlos Alberto Fernandes Junior,82,-,-,-,59°,-,-,-,61°
+Marcelino Verissimo Da Silva Junior,87,-,-,14°,-,-,-,-,-
+Fabiola Carla Ribas Pugliezi,87,-,-,-,-,-,14°,-,-
+Walter Trevisan,86,-,-,-,-,-,15°,-,-
+Andressa Stéfany Silva De Oliveira,85,-,-,33°,-,-,-,-,84°
+Rodrigo Diego Piva,84,-,-,-,-,-,34°,84°,-
+Karine Pereira Ferrari,84,-,-,-,-,-,100°,18°,-
+Fernando Andrade De Lima,84,-,-,-,-,-,-,17°,-
+Jonas Rodrigues De Oliveira,83,-,-,-,-,-,18°,-,-
+Filipe Chaves De Macedo,83,-,-,-,-,-,74°,91°,55°
+Fernando Alves Landim,82,-,-,-,-,-,-,19°,-
 Juan Mello De Sousa,82,-,-,-,-,-,-,-,19°
-Felipe Freitas Fonseca,81,20°,-,-,-,-,-,-,-
-Marcílio Correia,80,21°,-,-,-,-,-,-,-
-Joyce De Azevedo Ferreira,80,-,-,-,21°,-,-,-,-
-Rafael Moises,79,22°,-,-,-,-,-,-,-
+Fábio Santos Cardoso,79,-,-,-,-,-,22°,-,-
 Vinícius Pessoa Mapelli,79,-,-,-,-,-,-,-,22°
-Natália Bolívar Guarín,78,23°,-,-,-,-,-,-,-
-Joana Braz De Almeida Ritter,78,-,-,-,-,-,-,-,23°
-Yasmin Monique Luz Dos Santos Oliveira,77,24°,-,-,-,-,-,-,-
-Ueder Messias Dos Santos Cardoso,77,-,-,-,24°,-,-,-,-
-Caubi De Souza Loureiro Rosa,76,25°,-,-,-,-,-,-,-
-Leo Serrao Barbosa,76,-,-,-,25°,-,-,-,-
-Marielle Creão,75,26°,-,-,-,-,-,-,-
-Roberval Veronezi Campos,75,-,-,-,26°,-,-,-,-
-Cleber Rudnei Dorneles,75,-,-,-,-,-,-,-,26°
-Lucas André Pinto Xavier Almeida,74,27°,-,-,-,-,-,-,-
-Lais Baum,74,-,-,-,27°,-,-,-,-
+Maria Elisa Zacchi Da Silva,78,-,-,-,-,-,-,23°,-
+Evandro Silva,77,-,-,-,-,-,24°,-,-
+David Da Mata Lopes,77,-,-,-,-,-,-,-,24°
+Daniel Santana Nogueira Vieira,76,-,-,-,-,-,-,57°,69°
+Flávio André,75,-,-,-,-,-,-,33°,94°
+Leonardo Bentes,74,-,-,-,-,-,27°,-,-
+Gabriel Gutierrez Bernardes,74,-,-,-,-,-,-,51°,77°
 Igor Lucena Peixoto Andrezza,74,-,-,-,-,-,-,-,27°
-Gustavo Dutra Fortti,73,28°,-,-,-,-,-,-,-
-Alexandre Dos Santos Guerra,73,-,-,-,28°,-,-,-,-
-Gabriel Gutierrez Bernardes,73,-,-,-,52°,-,-,-,77°
-Lucas Ribeiro Carneiro,72,29°,-,-,-,-,-,-,-
-Daniel Hugo Silva,71,30°,-,-,-,-,-,-,-
-Rodrigo Pizzi Argentato,71,-,-,-,30°,-,-,-,-
-Letícia Leite Caetano,70,31°,-,-,-,-,-,-,-
-Gustavo Giro Resende,70,-,-,-,31°,-,-,-,-
-Matheus Oliveira Vestergaard Dias,69,32°,-,-,-,-,-,-,-
-Vinícius Da Silva Picanço,69,-,-,-,32°,-,-,-,-
-Francilândio Lima Serafim,68,-,-,-,33°,-,-,-,-
-Ivan Oliveira Amador,68,-,-,-,-,-,-,-,33°
-Darlan Oliveira Pires Junior,67,34°,-,-,-,-,-,-,-
-Danilo Ferreira De Oliveira,67,-,-,-,34°,-,-,-,-
-Rodrigo De Lima Oliveira,67,-,-,-,53°,-,-,-,82°
-Gustavo Bispo Dos Santos,66,35°,-,-,-,-,-,-,-
-Thatyanne Silva Do Prado,65,36°,-,-,-,-,-,-,-
-Hamilton Tenório Da Silva,65,-,-,-,-,-,-,-,36°
-Carlos Carniato,64,37°,-,-,-,-,-,-,-
-Francisco Armando Souza Da Silva,63,38°,-,-,-,-,-,-,-
-Michel Dos Santos Silva,63,-,-,-,38°,-,-,-,-
+Betisa Andrade Mascarenhas Massari,73,-,-,37°,-,-,-,92°,-
+Erik Stellet Brito Dos Santos,72,-,-,50°,-,-,86°,-,95°
+Leticia Manoela Dos Santos,72,-,-,-,-,-,-,-,29°
+Otávio Augusto Eneas Candido Pinheiro,70,-,-,-,-,-,31°,-,-
+Vítor Cézar De Lima,70,-,-,-,-,-,-,31°,-
+Ueder Messias Dos Santos Cardoso,69,-,-,-,-,-,32°,-,-
+Eduardo Teixeira,69,-,-,-,-,-,-,32°,-
+Alessandro Dos Santos Borges,68,-,-,-,-,-,33°,-,-
+Thiago Silva Dos Santos,67,-,-,34°,-,-,-,-,-
+Ulisses Santana Leal,67,-,-,-,-,-,-,34°,-
+Monique Calmon De Carvalho Ferreira,67,-,-,-,-,-,-,-,34°
+João Nicolas,65,-,-,-,-,-,-,36°,-
+André Felipe Nascimento Machado,64,-,-,-,-,-,-,37°,-
+Matheus De Meneses Campanhã Souza,63,-,-,-,-,-,-,38°,-
 Rafael Moreira,63,-,-,-,-,-,-,-,38°
-Luccas De Macedo Sodré,62,39°,-,-,-,-,-,-,-
-Clarisse De Almeida E Alvarenga,62,-,-,-,-,-,-,-,39°
-Wellyson Martins Tavares,61,-,-,-,40°,-,-,-,-
-Ricardo Gobbo,60,-,-,-,41°,-,-,-,-
+Samuel Da Silva Bezerra,62,-,-,-,-,-,39°,-,-
+Carlos Carniato,60,-,-,-,-,-,41°,-,-
+Roberto Sandoli Junior,60,-,-,-,-,-,-,41°,-
 Carlos Alberto Dos Rios Junior,60,-,-,-,-,-,-,-,41°
-Daniela Dias De Alecrim Lima,58,43°,-,-,-,-,-,-,-
-Luiz Alberto Alves De Brito Junior,57,44°,-,-,-,-,-,-,-
-Fabricio Kassardjian,57,94°,-,-,-,-,-,-,51°
-Cinthya Oestreich Silva,57,-,-,-,82°,-,-,-,63°
-Renato Oliveira Dos Santos,57,-,-,-,-,-,-,-,44°
-Anderson Pereira Monteiro,56,72°,-,-,-,-,-,-,74°
+Mônica Basílio Alves Martins,59,-,-,-,-,-,42°,-,-
+João Vitor Astori Saletti,57,-,-,-,-,-,-,44°,-
+Adriano Almeida Gonçalves,56,-,-,-,-,-,-,45°,-
 Vinicius André De Goes,56,-,-,-,-,-,-,-,45°
-Isaac Guillermo Gonzales Vizcarr,55,46°,-,-,-,-,-,-,-
-Patrick Cardoso Borges,55,-,-,-,46°,-,-,-,-
+Guilherme Aparecido Justimiano,55,-,-,-,-,-,46°,-,-
+Helio Alves Vieira Junior,55,-,-,-,-,-,97°,50°,-
+Gabriel Fiorese Zancanela,55,-,-,-,-,-,-,77°,70°
 Alexandre Henrique De Souza Espejo,55,-,-,-,-,-,-,-,46°
-Noelly Cruz De Oliveira,54,47°,-,-,-,-,-,-,-
-Christian Cruvinel França,54,-,-,-,-,-,-,-,47°
-Paulo Martins Monteiro,53,48°,-,-,-,-,-,-,-
-Leonardo Bentes,53,-,-,-,48°,-,-,-,-
-Saulo Santos Rocha Lima,53,-,-,-,-,-,-,-,48°
-Alice Russolo Losacco,52,49°,-,-,-,-,-,-,-
+Pablo Da Silva Lopes Dos Santos,54,-,-,-,-,-,47°,-,-
+Ismael Dos Reis Junior,53,-,-,-,-,-,48°,-,-
+Tayná Sales Mineiro,53,-,-,-,-,-,-,48°,-
 Bianca De Meira Lopes,52,-,-,-,-,-,-,-,49°
-Alexander Augusto Silva Fernandes,51,50°,-,-,-,-,-,-,-
-Daniella Fernandes Kojol,51,-,-,-,-,-,-,-,50°
-João Janduy Brasileiro Primo,50,51°,-,-,-,-,-,-,-
-Gabriel Da Silva De Carvalho,49,52°,-,-,-,-,-,-,-
-Felipe Santos De Freitas,48,53°,-,-,-,-,-,-,-
-Camila Barbosa Gomes De Araújo,48,-,-,-,-,-,-,-,53°
-Clara Mascarenhas Massari,47,54°,-,-,-,-,-,-,-
-Julio Alexandre Solano Arias,47,-,-,-,54°,-,-,-,-
-Tiago Hérique Silva De Almeida,47,-,-,-,-,-,-,-,54°
-Leandro Rodrigo Massari,46,55°,-,-,-,-,-,-,-
-Thiago José Mendes Ferreira,46,-,-,-,55°,-,-,-,-
-Filipe Chaves De Macedo,46,-,-,-,-,-,-,-,55°
-Betisa Andrade Mascarenhas Massari,45,56°,-,-,-,-,-,-,-
-Guilherme Aparecido Justimiano,45,-,-,-,56°,-,-,-,-
+Miliana Fernandes,51,-,-,-,-,-,50°,-,-
+Fabricio Kassardjian,50,-,-,-,-,-,-,-,51°
+Igor Vinicius Roberto,49,-,-,-,-,-,52°,-,-
+Julio Alexandre Solano Arias,49,-,-,-,-,-,-,52°,-
+Ismael Silva De Souza,49,-,-,-,-,-,-,-,52°
+Paula Ronchini De Barros,48,-,-,-,-,-,88°,66°,-
+Lucas Alvarenga De Almeida,48,-,-,-,-,-,-,53°,-
+Luan Gabriel Silva Fernandes,47,-,-,-,-,-,54°,-,-
+Leandro Rodrigo Massari,47,-,-,-,-,-,-,54°,-
+Lucas Solano Cadengue,47,-,-,-,-,-,-,56°,99°
+Veronica Agatha Gonçalves Isobe,46,-,-,-,-,-,55°,-,-
 Ivo Bruno Machado  Pessanha,45,-,-,-,-,-,-,-,56°
-Antonio Ricardo Coelho Alcantara Junior,44,57°,-,-,-,-,-,-,-
-Vagner Silva De Lima,44,-,-,-,57°,-,-,-,-
-Pedro Guilherme Castilho Tortello,43,58°,-,-,-,-,-,-,-
-Maria Elisa Zacchi Da Silva,43,-,-,-,58°,-,-,-,-
+Drieli Martins Da Silva,44,-,-,-,-,-,57°,-,-
+Samuel Eurico Heinemann Pereira,43,-,-,-,-,-,58°,-,-
 Erick Vagner Cabral De Lima Borges,43,-,-,-,-,-,-,-,58°
-José Augusto Salomoni,42,59°,-,-,-,-,-,-,-
-Renyclay Quadros De Souza,41,60°,-,-,-,-,-,-,-
-Renato Rotenberg,41,-,-,-,60°,-,-,-,-
-Roberto De Paiva,41,-,-,-,-,-,-,-,60°
-Gabriel Gregório Da Silva,40,61°,-,-,-,-,-,-,-
-Cleiton Neves Santos,39,62°,-,-,-,-,-,-,-
-Anthoni Matheus De Mendonça Ipiranga,39,-,-,-,62°,-,-,-,-
-Guilherme Dionísio Da Silva,38,63°,-,-,-,-,-,-,-
-Vinícius Roggia Gomes,38,-,-,-,63°,-,-,-,-
-Giovani Velasco Garcia,37,64°,-,-,-,-,-,-,-
-Jefferson Henrique Camelo Soares,37,82°,-,-,-,-,-,-,83°
-Micael Lopes Da Silva,37,-,-,-,64°,-,-,-,-
-John Kelvin Gonçalves De Souza,37,-,-,-,-,-,-,-,64°
-Thiago Sampaio,36,65°,-,-,-,-,-,-,-
-Ismael Sidney Barroso De Brito,36,-,-,-,65°,-,-,-,-
-Bruno Veridiano Geraldini,35,66°,-,-,-,-,-,-,-
+Daivith William Santos De Oliveira,42,-,-,-,-,-,59°,-,-
+Jairo Neder Monassa,42,-,-,-,-,-,-,59°,-
+Vinícius Gamarra Andrade Sousa,40,-,-,-,-,-,61°,-,-
+Danilo Ferreira De Oliveira,40,-,-,-,-,-,-,61°,-
+Felipe Calixto Filho,39,-,-,-,-,-,62°,-,-
+Renan Luiz De Paula,38,-,-,-,-,-,63°,-,-
+Danielle Calazans,38,-,-,-,-,-,-,63°,-
+João Vitor Binda Caetano,37,-,-,-,-,-,64°,-,-
+Guilherme Almeida Zeni,37,-,-,-,-,-,-,64°,-
+Roberto Alves De Oliveira Junior,36,-,-,-,-,-,65°,-,-
+Victor Hugo Bednarczuk,36,-,-,-,-,-,-,65°,-
+Raiane Lima Dos Santos,35,-,-,-,-,-,66°,-,-
 Jéssica Lemes,35,-,-,-,-,-,-,-,66°
-Marcos Rogério Brigati,34,67°,-,-,-,-,-,-,-
-Pammela Amorim Nascimento,34,-,-,-,-,-,-,-,67°
-Laura Pereira Salomao Soares,33,68°,-,-,-,-,-,-,-
-Vinicius Viana De Jesus,33,-,-,-,68°,-,-,-,-
+Bruno Castro De Lima,34,-,-,-,-,-,67°,-,-
+Gabriel Radaelli Piazza,34,-,-,-,-,-,-,67°,-
+Fernando Rodrigues De Sousa,33,-,-,-,-,-,68°,-,-
+Maria Gabrielle Goche,33,-,-,-,-,-,-,68°,-
 Fabricio Brandi De Morais,33,-,-,-,-,-,-,-,68°
-Samuel Da Silva Bezerra,32,69°,-,-,-,-,-,-,-
-Luan Gabriel Silva Fernandes,32,-,-,-,69°,-,-,-,-
-Daniel Santana Nogueira Vieira,32,-,-,-,-,-,-,-,69°
-Thiago Da Fonseca Lima,31,70°,-,-,-,-,-,-,-
-Pedro Henrique Santiago Costa,30,71°,-,-,-,-,-,-,-
-Frederico Mendes Da Silva,30,-,-,-,71°,-,-,-,-
-Simone Lemes Da Silva,29,-,-,-,72°,-,-,-,-
+Bruno Gomes Pedrosa,32,-,-,-,-,-,69°,-,-
+Matheus Rangel Pacanhela,32,-,-,-,-,-,-,69°,-
+Alexandre Dos Santos Guerra,31,-,-,-,-,-,70°,-,-
+Ester Alves Landim,29,-,-,-,-,-,72°,-,-
+Rodrigo Pizzi Argentato,29,-,-,-,-,-,-,72°,-
 Rogerio Idelfonso Da Silva Junior,29,-,-,-,-,-,-,-,72°
-Rafael Ferrão,28,73°,-,-,-,-,-,-,-
-Gabriel Donadel Dallagnol,28,-,-,-,73°,-,-,-,-
 Thiago Mochetti,28,-,-,-,-,-,-,-,73°
-Danielle Pevidor Goltara,27,74°,-,-,-,-,-,-,-
-Fabio Luis Andrade De Lima,27,-,-,-,74°,-,-,-,-
-Tais Costa De Santana,26,75°,-,-,-,-,-,-,-
-Cristiano Santos Da Mota,26,-,-,-,75°,-,-,-,-
+Aldo Caetano Da Silva Filho,27,-,-,-,-,-,76°,99°,-
+Rafael Benzaquem Neto,27,-,-,-,-,-,-,74°,-
 Bruno Romero De Mendonca,26,-,-,-,-,-,-,-,75°
-Bryan Diniz Rodrigues,25,76°,-,-,-,-,-,-,-
-Lucas Telles Valone,25,-,-,-,76°,-,-,-,-
-Gustavo De Melo Oliveira,25,-,-,-,-,-,-,-,76°
-Genilson Felismino De Almeida Júnior,24,77°,-,-,-,-,-,-,-
-Ederson Luis Branco,24,-,-,-,77°,-,-,-,-
-Charle De Amorim Silva,23,78°,-,-,-,-,-,-,-
-Bruno Castro De Lima,23,-,-,-,78°,-,-,-,-
-Fabiano Alencar,23,-,-,-,91°,-,-,-,88°
+Bruno Mendes Da Costa,25,-,-,-,-,-,85°,-,92°
+Alexsandro Dos Santos Carvalho,24,-,-,-,-,-,82°,-,96°
+Renan Bezerra Da Silveira,23,-,-,-,-,-,78°,-,-
 Gabriel Branco Frizzo,23,-,-,-,-,-,-,-,78°
-Thyago José Alves De Oliveira Nascimento,22,79°,-,-,-,-,-,-,-
-Janaina De Cassia Favarão,22,-,-,-,79°,-,-,-,-
+Rafael Moises,22,-,-,-,-,-,79°,-,-
+Teofilo Junior,22,-,-,-,-,-,-,79°,-
 Renato Kano,22,-,-,-,-,-,-,-,79°
-Felipe Almeida Mota,21,80°,-,-,-,-,-,-,-
-Ludmila Brunow Orlandi,21,-,-,-,80°,-,-,-,-
-William Augusto Lisboa,20,81°,-,-,-,-,-,-,-
-Letícia Máximo,20,-,-,-,81°,-,-,-,-
+Gabriel Contarini,21,-,-,-,-,-,-,80°,-
+José Leandro Caires Mirante,20,-,-,-,-,-,81°,-,-
 Luiz Pedro De Souza Moreira,20,-,-,-,-,-,-,-,81°
-Otávio Augusto Eneas Candido Pinheiro,19,89°,-,-,94°,-,-,-,-
-Andeilso Alves Batista De Lima,18,83°,-,-,-,-,-,-,-
-Marcelino Verissimo Da Silva Junior,18,-,-,-,83°,-,-,-,-
-José Antônio Alves Maciel,17,84°,-,-,-,-,-,-,-
-Fabiana Rose Tavares,17,-,-,-,84°,-,-,-,-
-Guilherme Vallim Machado,16,-,-,-,85°,-,-,-,-
-Diego Rodrigues De Souza Arimura,16,-,-,-,-,-,-,-,85°
-Ygo De Sousa Alencar,15,86°,-,-,-,-,-,-,-
-Maria Luisa Do Nascimento Da Silva,15,-,-,-,86°,-,-,-,-
+Miele Silva Dos Santos,19,-,-,-,-,-,-,82°,-
+Andrei Pataquine Oliveira,17,-,-,-,-,-,84°,-,-
+Arnaldo Coelho,16,-,-,-,-,-,-,85°,-
 Tiago D S Batista,15,-,-,-,-,-,-,-,86°
-Aline Victoria Da Cruz Ferreira Pinheiro,14,87°,-,-,-,-,-,-,-
-Antonio Carlos Eskildecen,14,-,-,-,87°,-,-,-,-
+Diego Clair Rodrigues,14,-,-,-,-,-,87°,-,-
+Murilo Ramos Carraro,14,-,-,-,-,-,-,87°,-
 Jhonathan Ballesteros,14,-,-,-,-,-,-,-,87°
-Matheus Emanuel Gomes Feitoza Da Silva,13,88°,-,-,-,-,-,-,-
-Douglas Alves Goulart,13,-,-,-,88°,-,-,-,-
-Ingrid Teixeira Pires,12,-,-,-,89°,-,-,-,-
-Ana Julia Bittencourt Fogaça,12,-,-,-,-,-,-,-,89°
-Marcela Sousa Mossmann,11,90°,-,-,-,-,-,-,-
-Wladimir Teixeira Neto,11,-,-,-,90°,-,-,-,-
-Felipe Ribeiro Tanso,11,-,-,-,-,-,-,-,90°
+Eusa Maria Brandao Silva,13,-,-,-,-,-,-,88°,-
+Washington Guimarães Washington,12,-,-,-,-,-,89°,-,-
+Rafael Abne Da Silva Ferreira,11,-,-,-,-,-,90°,-,-
+Leonardo Kenzo De Melo Waki,11,-,-,-,-,-,-,90°,-
+Farai Frantz Bvuma,10,-,-,-,-,-,91°,-,-
 Dayvson Cassiano Sales,10,-,-,-,-,-,-,-,91°
-Ricardo Felipe Da Silva,9,92°,-,-,-,-,-,-,-
-Cláudio Fernando Manoel Pinto,9,-,-,-,92°,-,-,-,-
-Bruno Mendes Da Costa,9,-,-,-,-,-,-,-,92°
-Ivan Dutra De Souza,8,93°,-,-,-,-,-,-,-
-Bianca Silveira Da Cunha,8,-,-,-,93°,-,-,-,-
+Caio Gabriel De Moraes,9,-,-,-,-,-,92°,-,-
+Manuel Ferreira Junior,8,-,-,-,-,-,-,93°,-
 Fernanda Yumi Takemoto,8,-,-,-,-,-,-,-,93°
-Flávio André,7,-,-,-,-,-,-,-,94°
-Gustavo Goulart Baptista,6,95°,-,-,-,-,-,-,-
-Melky-Salem Fernandes Batista Da Silva,6,-,-,-,95°,-,-,-,-
-Erik Stellet Brito Dos Santos,6,-,-,-,-,-,-,-,95°
-Tiago De Freitas Faustino,5,96°,-,-,-,-,-,-,-
-Oscar Schmitt Kremer,5,-,-,-,96°,-,-,-,-
-Alexsandro Dos Santos Carvalho,5,-,-,-,-,-,-,-,96°
-Jorge Carlos Santana De Oliveira,4,-,-,-,97°,-,-,-,-
-Cristina Pineda Ribeiro De Moura,3,98°,-,-,-,-,-,-,-
-Ariel Carvalho Alves,3,-,-,-,98°,-,-,-,-
+Tania Regina Makiyama,7,-,-,-,-,-,94°,-,-
+Withney Guilherme,7,-,-,-,-,-,-,94°,-
+Gabriel Da Rocha Souza,6,-,-,-,-,-,95°,-,-
+Iago Zambon Redondo,6,-,-,-,-,-,-,95°,-
+Cristiano Santos Da Mota,5,-,-,-,-,-,96°,-,-
+Lucas Rodrigues Xavier,5,-,-,-,-,-,-,96°,-
+Daniel Roberto,4,-,-,-,-,-,-,-,97°
+Lais Baum,3,-,-,-,-,-,98°,-,-
 Matheus Oliveira De Sousa Pereira,3,-,-,-,-,-,-,-,98°
-Vítor Barroso De Sousa,2,99°,-,-,-,-,-,-,-
-Thiago Flaulhabe Xavier Gomes,2,-,-,-,99°,-,-,-,-
-Lucas Solano Cadengue,2,-,-,-,-,-,-,-,99°
-Guilherme Pevidor Goltara,1,100°,-,-,-,-,-,-,-
-Cintia Pereira De Freitas,1,-,-,-,100°,-,-,-,-
+Mateus Levi Da Silva Martins,2,-,-,-,-,-,99°,-,-
 José Augusto Tucci Nunes Junior,1,-,-,-,-,-,-,-,100°
